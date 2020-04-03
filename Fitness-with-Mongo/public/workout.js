@@ -17,6 +17,7 @@ async function initWorkout() {
     } else {
       renderNoWorkoutText()
     }
+    
   }
   
   function tallyExercises(exercises) {
