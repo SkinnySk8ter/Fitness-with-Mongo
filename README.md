@@ -10,3 +10,12 @@ For this assignment, you'll create a workout tracker. You have already been prov
 
 A consumer will reach their fitness goals quicker when they track their workout progress.
 
+## How to Deploy
+
+1. run npm install - may need to npm i the following -mongoose, express, and morgan
+2. run mongod in a seperate terminal
+3. run node server.js in current terminal
+4. Once the server is listening open on your specified local host - in this case it should be 3000
+
+* Still working on deploying on heroku to make this easier to use. 
+
